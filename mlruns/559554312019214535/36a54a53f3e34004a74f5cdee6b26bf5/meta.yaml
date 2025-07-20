@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/559554312019214535/36a54a53f3e34004a74f5cdee6b26bf5/artifacts
+end_time: 1752771815747
+entry_point_name: ''
+experiment_id: '559554312019214535'
+lifecycle_stage: active
+run_id: 36a54a53f3e34004a74f5cdee6b26bf5
+run_name: training_pipeline-2025_07_17-17_03_20_761972
+run_uuid: 36a54a53f3e34004a74f5cdee6b26bf5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752771813852
+status: 3
+tags: []
+user_id: Nilesh

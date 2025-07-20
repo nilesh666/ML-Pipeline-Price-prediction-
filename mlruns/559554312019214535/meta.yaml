@@ -1,0 +1,6 @@
+artifact_location: mlflow-artifacts:/559554312019214535
+creation_time: 1752771813421
+experiment_id: '559554312019214535'
+last_update_time: 1752771813421
+lifecycle_stage: active
+name: training_pipeline

@@ -1,0 +1,6 @@
+artifact_location: mlflow-artifacts:/863079179271958404
+creation_time: 1752810863558
+experiment_id: '863079179271958404'
+last_update_time: 1752810863558
+lifecycle_stage: active
+name: continuous_deployment_pipeline
