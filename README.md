@@ -15,5 +15,11 @@ Set this stack to use it
 
 "zenml stack describe"
 
+To start zenml 
+"zenml login --local --blocking"
+
+To start mlflow
+"mlflow ui"
+
 That is all!! If you find the code is not working go through min i have updated it. Dont forget to star the repo. Thanks in advance!!!
 
