@@ -6,7 +6,7 @@ There are three different terms MLFlow tracker, MLFlow stack and how to register
 Creation:
 "zenml experiment-tracker register mlflow_tracker --flavor=mlflow --tracking_uri="127.0.0.1:5000" --tracking_username=default --tracking-password=default"     (Use this to create a new experiment tracker)
 
-"zenml stack register mlflow_stack --orchestrator-default --artifact=default --experiment-tracker=mflow_tracker"  (Use this to create a new stack)
+"zenml stack register mlflow_stack --orchestrator=default --artifact=default --experiment-tracker=mflow_tracker"  (Use this to create a new stack)
 
 
 Set this stack to use it
