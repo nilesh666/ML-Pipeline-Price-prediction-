@@ -15,5 +15,5 @@ Set this stack to use it
 
 "zenml stack describe"
 
-That is all!! Dont forget to star the repo. Thanks in advance!!!
+That is all!! If you find the code is not working go through min i have updated it. Dont forget to star the repo. Thanks in advance!!!
 
